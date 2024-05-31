@@ -1,0 +1,11 @@
+requerimientos 
+streamlit 
+python
+localhost 
+pandas
+pip install openpyxl
+pip install streamlit pymupdf 
+pip install streamlit transformers
+
+pip install pdf2image Pillow
+pip install fpdf
